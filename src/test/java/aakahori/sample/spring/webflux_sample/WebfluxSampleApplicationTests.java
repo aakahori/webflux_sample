@@ -1,4 +1,4 @@
-package aakahori.sample.spring.webflux;
+package aakahori.sample.spring.webflux_sample;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
