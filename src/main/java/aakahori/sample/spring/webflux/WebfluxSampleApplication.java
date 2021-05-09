@@ -1,4 +1,4 @@
-package aakahori.sample.spring.webflux_sample;
+package aakahori.sample.spring.webflux;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
